@@ -1,5 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+## NAME:HEMADHARSHNI S R
+## REF NO:25017667
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -49,6 +50,8 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-24 at 19 43 34_686ff880](https://github.com/user-attachments/assets/ec22a6ff-e6a9-41f2-956c-184d228a9d69)
+![WhatsApp Image 2025-10-24 at 19 44 23_5c661432](https://github.com/user-attachments/assets/890a4640-0d11-4c6f-bffa-b414959ccb62)
 
 
 **PROCEDURE:**
