@@ -68,3 +68,7 @@ It is the look-back resistance across the load terminals when all the sources ar
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+    
+**RESULT**
+Thus thevenin's theorem is verified practically and theoretically
+
